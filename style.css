@@ -2,7 +2,7 @@
 body {
     font-family: 'Helvetica Neue', Helvetica, Arial, Roboto, 'Droid Sans', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic ProN', sans-serif;
 }
-.entry-header .entry-title {
+#content .entry-title {
     font-size: 15px;
     padding: 5px;
     background-color: #f5a9f2;
